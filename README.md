@@ -1,2 +1,3 @@
-# home-assessment
-Ergoterapeutické hodnocení domácího prostředí 
+# Home Assessment
+
+Ergoterapeutické hodnocení domácího prostředí.
